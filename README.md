@@ -1,4 +1,4 @@
-# About me
+# About
 
 > I made a web page which responds to user actions. HTML-DOM manipulation was made via JavaScript.
 
@@ -20,7 +20,7 @@ Virtual Drum Assistant - a web page for drum lovers and enthusiasts or anyone, w
 * JavaScript
 
 ## Setup
-All you need is just a web browser and the internet connection.
+All you need is just a web browser and internet access.
 
 ## Gained knowledge
 * HTML structure and the hierarchy of HTML page
