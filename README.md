@@ -7,6 +7,7 @@ I made a web page which responds to user actions. HTML-DOM manipulation was made
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Knowledge](#knowledge)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -27,6 +28,9 @@ All you need is just a web browser and internet access.
 * Basic DOM manipulation via JavaScript:
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/23439837/107152986-d32c8d80-6973-11eb-9827-d792305e995b.jpg)
 
 ## Status
 Project is: _finished_.
