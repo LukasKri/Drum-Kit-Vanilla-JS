@@ -1,6 +1,6 @@
 # About
 
-> I made a web page which responds to user actions. HTML-DOM manipulation was made via JavaScript.
+I made a web page which responds to user actions. HTML-DOM manipulation was made via JavaScript.
 
 ## Table of contents
 * [General info](#general-info)
