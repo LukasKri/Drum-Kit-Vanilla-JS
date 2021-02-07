@@ -6,7 +6,7 @@ I made a web page which responds to user actions. HTML-DOM manipulation was made
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Knowledge](#knowledge)
+* [Gained knowledge](#gained-knowledge)
 * [Screenshot](#screenshot)
 * [Status](#status)
 * [Contact](#contact)
