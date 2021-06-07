@@ -2,7 +2,7 @@
 
 I made a web page which responds to user actions. HTML-DOM manipulation was made via JavaScript.
 
-# Live demo
+## Live demo
 
 https://lukaskri.github.io/basic-dom-project/
 
